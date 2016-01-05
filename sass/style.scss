@@ -1,3 +1,91 @@
-.black {
-  color: black
+*{
+	margin: 0;
+	padding: 0;
+}
+.red {
+}
+label{
+	font-size: 20px;
+}
+#register{
+	border: 5px solid lightblue;
+	padding-bottom: 15px;
+	border-radius: 15px;
+	margin-top: 50px;
+}
+#login{
+	border: 5px solid lightblue;
+	margin-top: 50px;
+	padding-bottom: 15px;
+	border-radius: 15px;
+}
+#form{
+	border: 5px solid lightblue;
+	border-radius: 15px;
+	padding-top: 15px;
+	padding-bottom: 15px;
+}
+.reviews{
+	border-left: 6px solid lightblue;
+	margin-top: 5px;
+	padding-left: 5px;
+}
+#image{
+	margin-bottom: 15px;
+}
+.block{
+	margin-top: 15px;
+	margin-bottom: 15px;
+	display: block;
+}
+#formSubmit{
+	margin-top: 80px;
+}
+#cover{
+	height: 120px;
+	margin-top: 10px;
+}
+#buttonDiv{
+	height: 120px;
+}
+.booklistdiv{
+	margin-top: 40px;
+}
+.image{
+	padding-left: 0px;
+}
+.booklist{
+	height: 150px;
+}
+.bookMain{
+	height: 200px;
+}
+.leftDiv{
+	padding-left: 0px;
+}
+.border{
+	border: 5px solid lightblue;
+	border-radius: 15px;
+	padding-top: 15px;
+	padding-bottom: 15px;
+}
+#mainBookContainer{
+	margin-top: 15px;
+	padding-top: 0px;
+}
+#welcomeBar{
+	background-color: #4c91cd;
+	height: 50px;
+	border-radius: 15px;
+	margin-bottom: 20px;
+	padding-bottom: 55px;
+}
+#welcomeName{
+	color: white;
+	font-style: italic;
+	padding-top: 10px;
+	padding-left: 20px;
+}
+#addButton{
+	margin-bottom: 15px;
 }
